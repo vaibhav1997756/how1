@@ -1,0 +1,10 @@
+div {
+    border: solid pink;
+    text-align: center;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+input {
+    margin: 30px;
+}
